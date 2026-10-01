@@ -16,12 +16,4 @@ Laravel · PHP · Livewire · Vue 3 · Inertia · Laravel Reverb · Tailwind CSS
 
 Also comfortable with Flutter, Go, and Python.
 
-### Selected public projects
-
-| Project | What it is |
-|---|---|
-| [islamic-golden-thread](https://github.com/rizalaji1st/islamic-golden-thread) | Interactive 3D museum of Islamic history — Next.js, React Three Fiber, Neon |
-| [mini-shopify](https://github.com/rizalaji1st/mini-shopify) | Laravel + Vue + Inertia + Tailwind learning project |
-| [go-trading-bot](https://github.com/rizalaji1st/go-trading-bot) | Automated IDX stock trading bot with AI analysis and Telegram monitoring |
-
-📍 Indonesia
+📍 Surakarta, Indonesia
