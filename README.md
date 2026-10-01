@@ -1,6 +1,6 @@
 # Rizal Aji Purbadinata
 
-Software engineer building digital scoring and championship management systems for **pencak silat**.
+Full-time **Software Developer at Universitas Sebelas Maret**, building web applications for the university. Outside of that, I build digital scoring and championship management systems for **pencak silat**.
 
 **Former CTO at Juara Silat** (3 years) — led the technology behind live match scoring and championship management for tournament organizers, judges, and officials.
 
